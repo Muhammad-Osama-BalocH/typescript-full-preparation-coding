@@ -1,1 +1,0 @@
-# typescript-full-preparation-coding
